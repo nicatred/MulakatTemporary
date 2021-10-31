@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bqYCnnc7AYu8XJVYynDpPktWKyiskk+kgpGE2TJVQcN6kDoDZWeHMXwYRaaM/YA3prhJBhP6KY6G70yYIZEBZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nijatred\\source\\repos\\MulakatBossAz\\MulakatAPI\\MulakatAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nijatred\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Nijatred\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Nijatred\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Nijatred\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Nijatred\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Nijatred\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
